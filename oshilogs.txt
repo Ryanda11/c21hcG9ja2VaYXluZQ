@@ -12,73 +12,70 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Zayne =====
-[1]Zayne       |08:40:15 | 01-11-2026| login OK @zayne_frost | score=2680 rank=2787
-[1]Zayne       |08:40:15 | 01-11-2026| serverTime=2026-11-01T08:40:15.000Z local=2026-11-01T08:40:15.232Z
+[1]Zayne       |08:50:21 | 02-11-2026| login OK @zayne_frost | score=2800 rank=2643
+[1]Zayne       |08:50:21 | 02-11-2026| serverTime=2026-11-02T08:50:21.000Z local=2026-11-02T08:50:21.365Z
 --> [1]Zayne menjalankan: Claim Daily
-[1]Zayne       |08:40:16 | 01-11-2026| daily: OK +10 poin score=2690
---> [1]Zayne menjalankan: Auto All Tasks (11 pending)
-[1]Zayne       |08:40:19 | 01-11-2026| [1/11] 044a9851 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/zayne_frost/status/2116812085890472119
-[1]Zayne       |08:40:19 | 01-11-2026| delay 10s...
-[1]Zayne       |08:40:31 | 01-11-2026| [2/11] 5c549577 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/zayne_frost/status/2116811999574193210
-[1]Zayne       |08:40:31 | 01-11-2026| delay 10s...
-[1]Zayne       |08:40:42 | 01-11-2026| [3/11] 8ac1a107 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/zayne_frost/status/2116812402632818369
-[1]Zayne       |08:40:42 | 01-11-2026| delay 10s...
-[1]Zayne       |08:40:54 | 01-11-2026| [4/11] 76e5ce8c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/zayne_frost/status/2116812170683063451
-[1]Zayne       |08:40:54 | 01-11-2026| delay 10s...
-[1]Zayne       |08:41:06 | 01-11-2026| [5/11] 7354ea5e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/zayne_frost/status/2116812389263643657
-[1]Zayne       |08:41:06 | 01-11-2026| delay 10s...
-[1]Zayne       |08:41:19 | 01-11-2026| [6/11] 07e2b02d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/zayne_frost/status/2116812375025731102
-[1]Zayne       |08:41:19 | 01-11-2026| delay 10s...
-[1]Zayne       |08:41:31 | 01-11-2026| [7/11] 70541c21 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/zayne_frost/status/2116812594097295876
-[1]Zayne       |08:41:31 | 01-11-2026| delay 10s...
-[1]Zayne       |08:41:43 | 01-11-2026| [8/11] 55940470 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/zayne_frost/status/2116812638533839294
-[1]Zayne       |08:41:43 | 01-11-2026| delay 10s...
-[1]Zayne       |08:41:55 | 01-11-2026| [9/11] 587d9c2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/zayne_frost/status/2116812596788128682
-[1]Zayne       |08:41:55 | 01-11-2026| delay 10s...
-[1]Zayne       |08:42:08 | 01-11-2026| [10/11] 28bea61c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/zayne_frost/status/2116812720407757674
-[1]Zayne       |08:42:08 | 01-11-2026| delay 10s...
-[1]Zayne       |08:42:20 | 01-11-2026| [11/11] 50117b4a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/zayne_frost/status/2116812558087954886
-[1]Zayne       |08:42:20 | 01-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Zayne       |08:42:22 | 01-11-2026| [1/1] 044a9851 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116785427319587 | proof=https://x.com/zayne_frost/status/2116812728279476675
+[1]Zayne       |08:50:22 | 02-11-2026| daily: OK +10 poin score=2810
+--> [1]Zayne menjalankan: Auto All Tasks (8 pending)
+[1]Zayne       |08:50:24 | 02-11-2026| [1/8] b7ad33b1 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b7ad33b1-19e1-4135-95d0-9ce863fd96f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211717413413652 | proof=https://x.com/zayne_frost/status/2117177149179519299
+[1]Zayne       |08:50:24 | 02-11-2026| delay 10s...
+[1]Zayne       |08:50:35 | 02-11-2026| [2/8] 7f765e65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b7ad33b1-19e1-4135-95d0-9ce863fd96f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211717413413652 | proof=https://x.com/zayne_frost/status/2117177066930582902
+[1]Zayne       |08:50:35 | 02-11-2026| delay 10s...
+[1]Zayne       |08:50:51 | 02-11-2026| [3/8] 1622c12e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b7ad33b1-19e1-4135-95d0-9ce863fd96f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211717413413652 | proof=https://x.com/zayne_frost/status/2117177269603472587
+[1]Zayne       |08:50:51 | 02-11-2026| delay 10s...
+[1]Zayne       |08:51:02 | 02-11-2026| [4/8] 1f121fe2 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b7ad33b1-19e1-4135-95d0-9ce863fd96f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211717413413652 | proof=https://x.com/zayne_frost/status/2117177176523660031
+[1]Zayne       |08:51:02 | 02-11-2026| delay 10s...
+[1]Zayne       |08:51:20 | 02-11-2026| [5/8] 08fc1cbc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b7ad33b1-19e1-4135-95d0-9ce863fd96f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211717413413652 | proof=https://x.com/zayne_frost/status/2117177367354664925
+[1]Zayne       |08:51:20 | 02-11-2026| delay 10s...
+[1]Zayne       |08:51:37 | 02-11-2026| [6/8] 947c8235 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b7ad33b1-19e1-4135-95d0-9ce863fd96f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211717413413652 | proof=https://x.com/zayne_frost/status/2117177240983343245
+[1]Zayne       |08:51:37 | 02-11-2026| delay 10s...
+[1]Zayne       |08:51:55 | 02-11-2026| [7/8] a473652b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b7ad33b1-19e1-4135-95d0-9ce863fd96f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211717413413652 | proof=https://x.com/zayne_frost/status/2117177307697627729
+[1]Zayne       |08:51:55 | 02-11-2026| delay 10s...
+[1]Zayne       |08:52:08 | 02-11-2026| [8/8] 9d9a53d3 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b7ad33b1-19e1-4135-95d0-9ce863fd96f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211717413413652 | proof=https://x.com/zayne_frost/status/2117177557711652281
+[1]Zayne       |08:52:08 | 02-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Zayne       |08:52:09 | 02-11-2026| [1/1] b7ad33b1 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"b7ad33b1-19e1-4135-95d0-9ce863fd96f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2117174134136520 | proof=https://x.com/zayne_frost/status/2117177465964324581
 --> [1]Zayne menjalankan: Watch Anime
-[1]Zayne       |08:42:23 | 01-11-2026| watch: semua video sudah completed
+[1]Zayne       |08:52:11 | 02-11-2026| watch: semua video sudah completed
 --> [1]Zayne menjalankan: Read Article
-[1]Zayne       |08:42:25 | 01-11-2026| news: 32/33 artikel selesai dibaca
-[1]Zayne       |08:42:26 | 01-11-2026| mint eligibility: {"userId":"1390545782370045952","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@animegazz642","status":"unsubmitted","revision":"","submittedAt":null,"reviewedA
-[1]Zayne       |08:42:32 | 01-11-2026| news [1/1] oshi-labs-new-features-2026-11: OK completed=33
+[1]Zayne       |08:52:12 | 02-11-2026| news: 33/34 artikel selesai dibaca
+[1]Zayne       |08:52:13 | 02-11-2026| mint eligibility: {"userId":"1390545782370045952","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@animegazz642","status":"unsubmitted","revision":"","submittedAt":null,"reviewedA
+[1]Zayne       |08:52:18 | 02-11-2026| news [1/1] oshi-nft-24h-volume-no2-2026-11: OK completed=34
 --> [1]Zayne menjalankan: Quiz Anime
 --> [1]Zayne menjalankan: Music Missions (realtime, bisa lama!)
-[1]Zayne       |08:42:37 | 01-11-2026| music: kedua misi sudah tercapai, stop
-[1]Zayne       |08:42:37 | 01-11-2026| mission music-listens-10: sudah diklaim
-[1]Zayne       |08:42:37 | 01-11-2026| mission music-minutes-30: sudah diklaim
-[1]Zayne       |08:42:37 | 01-11-2026| mission anime-completed-3: sudah diklaim
+[1]Zayne       |08:52:23 | 02-11-2026| music: kedua misi sudah tercapai, stop
+[1]Zayne       |08:52:24 | 02-11-2026| mission music-listens-10: sudah diklaim
+[1]Zayne       |08:52:24 | 02-11-2026| mission music-minutes-30: sudah diklaim
+[1]Zayne       |08:52:24 | 02-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Zayne menjalankan: Claim Missions
-[1]Zayne       |08:42:38 | 01-11-2026| mission music-listens-10: sudah diklaim
-[1]Zayne       |08:42:38 | 01-11-2026| mission music-minutes-30: sudah diklaim
-[1]Zayne       |08:42:38 | 01-11-2026| mission anime-completed-3: sudah diklaim
+[1]Zayne       |08:52:24 | 02-11-2026| mission music-listens-10: sudah diklaim
+[1]Zayne       |08:52:24 | 02-11-2026| mission music-minutes-30: sudah diklaim
+[1]Zayne       |08:52:24 | 02-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Zayne menjalankan: Check Eligibility
 
 --- eligibility [1]Zayne ---
-  @zayne_frost | score=2680 rank=2787
-  tasks    [####----------------] 3/14
+  @zayne_frost | score=2800 rank=2643
+  tasks    [#########-----------] 7/15
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [?]
   watch    [####################] 22/17
   music    [#################---] 11/13
-  artikel  [####################] 33/33
+  artikel  [####################] 34/34
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Zayne menjalankan: Read Manga
-[1]Zayne       |08:42:43 | 01-11-2026| manga: 0/13 chapter belum completed
+[1]Zayne       |08:52:27 | 02-11-2026| manga: 0/13 chapter belum completed
 --> [1]Zayne menjalankan: Get Gift
-[1]Zayne       |08:42:43 | 01-11-2026| gift: 0/6 belum diterima
+[1]Zayne       |08:52:29 | 02-11-2026| gift: 3/9 belum diterima
+[1]Zayne       |08:52:30 | 02-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Zayne       |08:52:33 | 02-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Zayne       |08:52:36 | 02-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Zayne menjalankan: Setup Profile
-[1]Zayne       |08:42:44 | 01-11-2026| profile: bio="Nothing" fav=kagura rewardAt=1791415013
-[1]Zayne       |08:42:44 | 01-11-2026| profile: bonus sudah diklaim, skip
+[1]Zayne       |08:52:39 | 02-11-2026| profile: bio="Nothing" fav=kagura rewardAt=1791415013
+[1]Zayne       |08:52:39 | 02-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Zayne menjalankan: Bind Wallet
-[1]Zayne       |08:42:44 | 01-11-2026| wallet: sudah terikat 2ayc4x8zZL... (solana)
+[1]Zayne       |08:52:40 | 02-11-2026| wallet: sudah terikat 2ayc4x8zZL... (solana)
 
 == RINGKASAN ==
-- Zayne: daily=claimed | tasks OK 12/12 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/6 diterima | profile - | wallet bound | mint req=false open=false
+- Zayne: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
